@@ -45,3 +45,12 @@ This project was built using **pure HTML, CSS, and Vanilla JavaScript** to pract
 | JavaScript | Logic & events |
 
 ---
+
+## 🌍 Jonli sayt / Live Demo
+🔗 [Saytni ko‘rish / View Website](https://mentora-ecru.vercel.app/)
+
+---
+
+## 👨‍💻 Muallif / Author
+**Shokhjahon Qalandarov** — Front-End dasturchi & [TechWebby](https://www.techWebby) asoschisi  
+> “Har bir loyiha — yangi bilim sari qadam.” / "Building knowledge, one project at a time."
