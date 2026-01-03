@@ -47,7 +47,7 @@ This project was built using **pure HTML, CSS, and Vanilla JavaScript** to pract
 ---
 
 ## 🌍 Jonli sayt / Live Demo
-🔗 [Saytni ko‘rish / View Website](https://mentora-ecru.vercel.app/)
+🔗 [Saytni ko‘rish / View Website](https://github.com/QalandarovShokhjahon/calculator)
 
 ---
 
